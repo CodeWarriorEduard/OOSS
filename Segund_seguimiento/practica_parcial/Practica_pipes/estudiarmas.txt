@@ -1,0 +1,14 @@
+Entrar a subhijos
+Liberar el salto de linea
+Estudiar jerarquía vertical
+cerrar tuberias para subhijos.
+Realizar ejercicio de turnos.
+Matriz en espacio de memoria compartido.
+Secuencia pipes.
+Semaforo con pipes.
+Realizar ejercicio de multiplicacion de matrices.
+
+Matriz dinámica.
+
+Nombrar cada proceso y cada tuberia
+Logica para cerrar las tuberias.
